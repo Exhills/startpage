@@ -1,5 +1,5 @@
 {
-  "username": "Default",
+  "username": "Exhils",
   "profile_pic": "./images/user.png",
   "profile_gif": "./images/bg.png",
   "bookmarks" : {
@@ -25,11 +25,11 @@
       "Eneba": "https://www.eneba.com/"
     },
     "Chats":{
-      "Chatgpt": "https://www.chatgpt.com/",
+      "Discuo": "https://discuo.com",
       "Gemini": "https://gemini.google.com/app",
-      "Claude": "https://claude.ai",
-      "Blackbox": "https://www.blackbox.ai/",
-      "Deepseek": "https://chat.deepseek.com"
+      "???": "Place Holder",
+      "???": "Place Holder",
+      "???": "Place Holder"
     }
 
   }
